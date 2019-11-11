@@ -17,11 +17,11 @@ xn:yn
 Given a file with specific format, this script calculates standings of a championship.
 
 ## How to run
-
+```
 $ sudo chmod +x regr results <br/>
 $ ./regr input_file_1 input_file_2 ... input_file_n <br/>
 $ ./results input_file <br/>
-
+```
 
 ## Authors
 
